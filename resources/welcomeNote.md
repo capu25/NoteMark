@@ -1,5 +1,11 @@
 ## Welcome to NoteMark 👋🏻
 
+This is a **fork** of the original NoteMark application, which has been **optimized for both macOS and Windows/Linux** operating systems.
+
+You can create your first note by clicking on the top-left icon on the sidebar, or delete one by clicking on the top right icon.
+
+Following there's a quick overview of the currently supported Markdown syntax.
+
 NoteMark is a simple **note-taking app** that uses **Markdown** syntax to format your notes.
 
 You can create your first note by clicking on the top-left icon on the sidebar, or delete one by clicking on top right icon.
