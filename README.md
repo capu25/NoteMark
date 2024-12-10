@@ -10,25 +10,5 @@ You can follow along the entire development of this project here 👇
 
 ### Install
 
-```bash
-$ yarn
-```
-
-### Development
-
-```bash
-$ yarn dev
-```
-
-### Build
-
-```bash
-# For windows
-$ yarn build:win
-
-# For macOS
-$ yarn build:mac
-
-# For Linux
-$ yarn build:linux
-```
+*This is a fork of the original NoteMark application*, which has been optimized for both macOS and Windows/Linux operating systems.
+If the project doesn't seem to create its storage folder, you can make it under your home directory at {C://Users//user//NoteMark}.
